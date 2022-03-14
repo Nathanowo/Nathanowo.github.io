@@ -22,9 +22,8 @@
 #~Aventon Cordova
 ![Image](https://user-images.githubusercontent.com/100342183/156529372-127c05e3-045a-4500-8c67-bd404b17c2c7.png)
 #~Tsunami
-![Image]![U716a7591b34b4f1d9177721ddc298eb84](https://user-images.githubusercontent.com/100342183/156529642-bf7c0c72-b7f8-41a6-965b-24397a23e716.jpg)
-#~The Project
-![Image]![ss](https://user-images.githubusercontent.com/100342183/156529784-ef609369-ea21-4030-8e0d-cb4f5a8b101f.jpg)
+![U716a7591b34b4f1d9177721ddc298eb84](https://user-images.githubusercontent.com/100342183/156529642-bf7c0c72-b7f8-41a6-965b-24397a23e716.jpg)
+
 
 
 ###This is website is only a demo but I still want for ppl to see this as an extra information:>>
